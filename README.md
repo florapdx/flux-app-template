@@ -30,6 +30,4 @@ This structure assumes you'll have logged in and logged out views, such as landi
 * account store/actions/api
 
 
-### Status: WIP -- should be useful, but also 
-
-### Licence: This project is licensed under the terms of the MIT license.
+### Status: WIP
