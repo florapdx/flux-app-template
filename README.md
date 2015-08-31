@@ -1,4 +1,4 @@
-# Flux app starter [WIP]
+# Flux app starter
 
 Basic foundation for building Flux apps. Customize to suit the specific app, adding, removing, and updating npm deps as necessary.
 
@@ -28,3 +28,8 @@ This structure assumes you'll have logged in and logged out views, such as landi
 * basic routes setup
 * session store/actions/api
 * account store/actions/api
+
+
+### Status: WIP -- should be useful, but also 
+
+### Licence: This project is licensed under the terms of the MIT license.
