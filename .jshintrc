@@ -1,0 +1,18 @@
+{
+  "asi": true,
+  "undef": true,
+  "node": true,
+  "esnext": true,
+  "globals": {
+    "describe": true,
+    "it": true,
+    "before": true,
+    "beforeEach": true,
+    "after": true,
+    "afterEach": true,
+    "context": true
+  },
+  "browser": {
+    "document": true
+  }
+}
